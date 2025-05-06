@@ -140,4 +140,6 @@ Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N
 by Kaiming He Xiangyu Zhang Shaoqing Ren Jian Sun
 Microsoft Research
 {kahe, v-xiangz, v-shren, jiansun}@microsoft.com
+EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+Mingxing Tan 1 Quoc V. Le 1
 
