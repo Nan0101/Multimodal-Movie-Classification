@@ -1,10 +1,8 @@
----
-
 # Multimodal Movie Genre Classification
 
 ## 🌐 Website Link
 
-**Netlify Deployment**: [Visit Website](https://genregenie.netlify.app/)
+**Netlify Deployment**: [Visit Website](https://your-netlify-link.netlify.app)
 This site presents our project output, including model performance and results.
 
 ---
@@ -122,3 +120,14 @@ To run this project locally or in Colab:
    * `Image_Resnet_Model.ipynb`
    * `Fusion_Model_LSTM_RESNET.ipynb`
 
+---
+
+## Final Remarks
+
+* The attention-based fusion model significantly outperformed the individual text-only and image-only models.
+* Preprocessing, especially genre filtering and poster quality, played a key role in improving generalization.
+* The project demonstrates the strength of combining multimodal data for robust genre classification.
+
+---
+
+Let me know if you want to split this into sections for a website or Netlify version as well.
