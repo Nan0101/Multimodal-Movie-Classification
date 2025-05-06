@@ -1,5 +1,3 @@
-Here’s your updated and **realistic student-style `README.md`** for the GitHub repository [Multimodal-Movie-Classification](https://github.com/patilanupam/Multimodal-Movie-Classification). It includes a clean layout with **no emojis**, clear explanations of what has been done, and reflects the actual project progress:
-
 ---
 
 # Multimodal Movie Genre Classification
