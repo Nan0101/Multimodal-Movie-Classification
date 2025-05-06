@@ -2,7 +2,7 @@
 
 ## 🌐 Website Link
 
-**Netlify Deployment**: [Visit Website](https://your-netlify-link.netlify.app)
+**Netlify Deployment**: [Visit Website](https://genregenie.netlify.app/)
 This site presents our project output, including model performance and results.
 
 ---
