@@ -136,3 +136,8 @@ To run this project locally or in Colab:
 by Muhammad Asif Khan 1,†ORCID,Yi Huang 2,Junlan Feng 2,Bhuyan Kaibalya Prasad 3,ORCID,Zafar Ali 1,Irfan Ullah 4,ORCID andPavlos Kefalas 5
 * Attention Is All You Need
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
+* Deep Residual Learning for Image Recognition 
+by Kaiming He Xiangyu Zhang Shaoqing Ren Jian Sun
+Microsoft Research
+{kahe, v-xiangz, v-shren, jiansun}@microsoft.com
+
