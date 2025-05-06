@@ -130,4 +130,9 @@ To run this project locally or in Colab:
 
 ---
 
-Let me know if you want to split this into sections for a website or Netlify version as well.
+## Research Papers
+
+* A Multi-Attention Approach Using BERT and Stacked Bidirectional LSTM for Improved Dialogue State Tracking
+by Muhammad Asif Khan 1,†ORCID,Yi Huang 2,†,Junlan Feng 2,*,Bhuyan Kaibalya Prasad 3,†ORCID,Zafar Ali 1,†,Irfan Ullah 4,†ORCID andPavlos Kefalas 5,†
+* Attention Is All You Need
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
