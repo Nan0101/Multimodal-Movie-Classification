@@ -20,8 +20,8 @@ We worked with a cleaned and undersampled version of the TMDB dataset containing
 ---
 ## ROLES AND RESPONSIBILITIES
 
-* DATA SPECIALIST AND IMAGE MODELLING LEAD: ANUPAM PATIL
-* FUSION AND TEXT MODELLING LEAD: NANDINI SONI
+## DATA SPECIALIST AND IMAGE MODELLING LEAD: ANUPAM PATIL
+## FUSION AND TEXT MODELLING LEAD: NANDINI SONI
 ## Repository Structure
 
 * `Data_Collection_EDA_Specialist.ipynb`: Data fetching, preprocessing, genre filtering, and balancing operations.
