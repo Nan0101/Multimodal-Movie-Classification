@@ -7,7 +7,7 @@ This site presents our project output, including model performance and results.
 
 
 ---
-#ROLES AND RESPONSIBILITIES
+# ROLES AND RESPONSIBILITIES
 
 ## DATA SPECIALIST AND IMAGE MODELLING LEAD: ANUPAM PATIL
 ## FUSION AND TEXT MODELLING LEAD: NANDINI SONI
