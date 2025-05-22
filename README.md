@@ -5,6 +5,13 @@
 **Netlify Deployment**: [Visit Website](https://genregenie.netlify.app/)
 This site presents our project output, including model performance and results.
 
+
+---
+# ROLES AND RESPONSIBILITIES
+
+### DATA SPECIALIST AND IMAGE MODELLING LEAD: ANUPAM PATIL
+### FUSION AND TEXT MODELLING LEAD: NANDINI SONI
+
 ---
 
 ## Overview
@@ -18,7 +25,6 @@ This project focuses on classifying movie genres by combining both **textual** a
 We worked with a cleaned and undersampled version of the TMDB dataset containing around 20,530 movie samples, focusing on 12 major genres.
 
 ---
-
 ## Repository Structure
 
 * `Data_Collection_EDA_Specialist.ipynb`: Data fetching, preprocessing, genre filtering, and balancing operations.
